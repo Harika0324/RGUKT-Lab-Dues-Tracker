@@ -1,2 +1,8 @@
-# RGUKT-Lab-Dues-Tracker
-A website for the administartion to check the lab dues of each and every student in the college. Where Lab Staff adds the dues for student if he brokes any equipment in the lab. On paying the due amount , the admin will clear all the dues of the student.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
